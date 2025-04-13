@@ -4,11 +4,11 @@
   "description": "Real Estate Analytics",
   "author": "Serhii",
   "scripts": {
-    "dev": "next dev --turbo",
-    "build": "next build",
+    "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "vercel --prod"
+    "export": "next build",
+    "deploy": "npm run export && firebase deploy"
   },
   "dependencies": {
     "@ant-design/icons": "^6.0.0",

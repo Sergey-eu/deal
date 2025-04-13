@@ -1,7 +1,10 @@
 # Real Estate Deal
-
 This project provides a real estate deal with a modern UI built using Next.js and Ant Design.
 
+## Live Demo
+
+The latest stable version has been deployed to Firebase Hosting:
+- [View Demo](https://deal-test-6e07e.web.app/)
 
 ## Tech Stack
 
