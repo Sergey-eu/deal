@@ -1,6 +1,6 @@
-# Real Estate Deal Analysis
+# Real Estate Deal
 
-This project provides a real estate deal analysis with a modern UI built using Next.js and Ant Design.
+This project provides a real estate deal with a modern UI built using Next.js and Ant Design.
 
 
 ## Tech Stack
@@ -39,10 +39,10 @@ This project provides a real estate deal analysis with a modern UI built using N
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/real-estate-analysis.git
+git clone https://github.com/Sergey-eu/deal.git
 
 # Navigate to project directory
-cd real-estate-analysis
+cd deal
 
 # Install dependencies
 npm install
